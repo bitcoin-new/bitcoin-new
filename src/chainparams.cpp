@@ -212,7 +212,7 @@ public:
         };
 
         vPreminePubkeys = {
-            { "1A5sdKR7CS4eMVJqXvhzBAGxgLnE8GodE9"},
+            { "1EqADVcu76eAGeGYyee4YZSA7Puau5gMQN"},
         };
     }
 };
